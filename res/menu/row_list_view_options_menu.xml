@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item
+		android:title="@string/add_round"
+		android:id="@+id/menu_item_add_round_score"></item>
+	<item
+		android:title="@string/remove_last"
+		android:id="@+id/menu_item_remove_last"></item>
+</menu>

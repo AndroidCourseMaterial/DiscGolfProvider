@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, RowListViewActivity!</string>
+    <string name="app_name">DG Provider</string>
+    <string name="remove_last">Remove Last</string>
+    <string name="add_round">Add Round</string>
+    <string name="refresh">Refresh</string>
+    <string name="round_editor">Round Editor</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="delete_round_score">Delete Round Score</string>
+    <string name="edit_this_round">Edit this round</string>
+</resources>
