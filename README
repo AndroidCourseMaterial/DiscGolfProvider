@@ -1,0 +1,2 @@
+The purpose of this project is to learn about Content Providers.
+The disc golf content provider also provides editors for some of the different mime types via implicit intents.
